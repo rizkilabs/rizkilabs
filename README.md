@@ -4,7 +4,6 @@
 
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 Currently working on [Cinema XXI](https://21cineplex.com/)
 - 👯 I’m looking to collaborate on Paid & Open Source Project
 
 Thank you for visiting my github profile :)
