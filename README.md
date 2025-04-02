@@ -27,11 +27,20 @@
 </p>
 
 ---
-
+ 
 ## 🌎 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rizkilabs)  
-[![Website](https://img.shields.io/badge/-Website-black?style=flat-square&logo=googlechrome&logoColor=white)](https://rizkilabs.com)  
-📧 [rizkilabs.dev@gmail.com](mailto:rizkilabs.dev@gmail.com)  
+<p align="left">
+  <a href="https://linkedin.com/in/rizkilabs">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://rizkilabs.com">
+    <img src="https://img.shields.io/badge/-Website-black?style=flat-square&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="mailto:rizkilabs.dev@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 
