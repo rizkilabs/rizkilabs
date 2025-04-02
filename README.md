@@ -40,4 +40,5 @@
 
 ## 🎉 Fun Fact  
 Did you know? **The first computer bug was an actual bug (a moth) found inside a computer in 1947!** 🦋💻  
+
 ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
