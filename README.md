@@ -30,11 +30,6 @@
 
 ---
 
-## 🏆 GitHub Trophies  
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=rizkilabs&theme=onedark&margin-w=15)  
-
----
-
 ## 🌎 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rizkilabs)  
 [![Website](https://img.shields.io/badge/-Website-black?style=flat-square&logo=googlechrome&logoColor=white)](https://rizkilabs.com)  
