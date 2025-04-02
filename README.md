@@ -4,7 +4,8 @@
 
 ## 👨‍💻 About Me  
 - 🚀 Full Stack Developer with a passion for web & backend development.  
-- 🌱 Currently learning **Golang & System Design**.  
+- 💼 Currently working as a Full Stack Developer at Central Jakarta Regional Job Training Center (PPKD).
+- 🌱 Currently learning **Golang & System Design**.
 - 💬 Ask me about **React, Node.js, Laravel, and Databases**.  
 - 📫 Reach me at **[rizkilabs.com](mailto:rizki@example.com)**.  
 
