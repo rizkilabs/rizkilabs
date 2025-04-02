@@ -32,8 +32,8 @@
 ---
 
 ## 🌎 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin)  
-[![Website](https://img.shields.io/badge/-Website-black?style=flat-square&logo=googlechrome&logoColor=white)](https://yourwebsite.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rizkilabs)  
+[![Website](https://img.shields.io/badge/-Website-black?style=flat-square&logo=googlechrome&logoColor=white)](https://rizkilabs.com)  
 📧 [rizkilabs.dev@gmail.com](mailto:rizkilabs.dev@gmail.com)  
 
 ---
