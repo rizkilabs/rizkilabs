@@ -2,9 +2,6 @@
 
 ---
 
-## 👨‍💻 About Me  
-- 🚀 Full Stack Developer with a passion for web & backend development.  
-- 💼 Currently working as a Full Stack Developer at Central Jakarta Regional Job Training Center (PPKD).
 - 🌱 Currently learning **Golang & System Design**.
 - 💬 Ask me about **React, Node.js, Laravel, and Databases**.  
 - 📫 Reach me at **[rizkilabs.com](mailto:rizki@example.com)**.  
@@ -22,13 +19,9 @@
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkilabs&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
 ---
  
-## 🌎 Connect with Me  
+## 🌎 Connect
 <p align="left">
   <a href="https://linkedin.com/in/rizkilabs">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" />
@@ -36,15 +29,5 @@
   <a href="https://rizkilabs.com">
     <img src="https://img.shields.io/badge/-Website-black?style=flat-square&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="mailto:rizkilabs.dev@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
-
----
-
-## 🎉 Fun Fact  
-Did you know? **The first computer bug was an actual bug (a moth) found inside a computer in 1947!** 🦋💻  
-
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
